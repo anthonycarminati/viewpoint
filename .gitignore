@@ -1,0 +1,6 @@
+.idea/
+*.log
+**.conf
+**/**.conf
+**.pyc
+**/**/.DS_Store
